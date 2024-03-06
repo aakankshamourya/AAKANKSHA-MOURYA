@@ -1,3 +1,4 @@
+![logo](https://github.com/aakankshamourya/AAKANKSHA-MOURYA/blob/main/1000_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Aakanksha Mourya</h1>
 <h3 align="center">A passionat data scientist from India</h3>
 
